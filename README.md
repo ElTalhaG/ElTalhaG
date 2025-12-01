@@ -31,6 +31,8 @@ What I Bring to the Table:
 
 Tech I Use:
 
-Languages: Java, Python, SQL, JavaScript, CSS
-Tools: Git, VS Code, Docker (basic), MySQL/MariaDB
-Concepts: OOP, relational database theory, ML fundamentals, system design basics, UML
+- Languages: Java, Python, SQL, JavaScript, CSS
+
+- Tools: Git, VS Code, Docker (basic), MySQL/MariaDB
+
+- Concepts: OOP, relational database theory, ML fundamentals, system design basics, UML
