@@ -5,6 +5,7 @@ Right now I'm building projects that combine clean engineering with real-world p
 
 I’m still early in my journey, but I’m serious about writing maintainable code, learning industry patterns, and shipping things that actually work.
 
+
 What I’m Working On:
 
 - Databases — SQL, relational schema design, normalization, indexing & hashing, query performance.
@@ -17,17 +18,6 @@ What I’m Working On:
 
 - Side Projects — tools, scripts, and early prototypes that help me test new ideas fast.
 
-What I Bring to the Table:
-
-- I learn fast and actually enjoy building full systems, not just coding small tasks.
-
-- I document my work properly: notes, diagrams, structure, and clean code matter to me.
-
-- I love solving problems step by step — especially where maths, logic, and engineering meet.
-
-- I work well in teams and communicate clearly.
-
-- I’m comfortable moving between different stacks and figuring things out on the fly.
 
 Tech I Use:
 
