@@ -23,6 +23,6 @@ Tech I Use:
 
 - Languages: Java, Python, SQL, JavaScript, CSS
 
-- Tools: Git, VS Code, Docker (basic), MySQL/MariaDB
+- Tools: Git, VS Code, IntelliJ, Docker (basic), MySQL/MariaDB
 
 - Concepts: OOP, relational database theory, ML fundamentals, system design basics, UML
