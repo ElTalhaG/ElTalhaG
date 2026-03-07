@@ -1,28 +1,18 @@
-## Hi there 👋 I'm Talha — Software Engineering Student Building Real Stuff
-
-I'm a first-year Software Engineering student with a strong focus on backend development, databases, and applied machine learning.
-Right now I'm building projects that combine clean engineering with real-world problem solving — from relational database design to multi-module Java systems and ML experiments.
-
-I’m still early in my journey, but I’m serious about writing maintainable code, learning industry patterns, and shipping things that actually work.
+# 💫 About Me:
+Hi there 👋 I'm Talha — Software Engineering Student Building Real Stuff<br>I'm a first-year Software Engineering student with a strong focus on backend development, databases, and applied machine learning. Right now I'm building projects that combine clean engineering with real-world problem solving — from relational database design to multi-module Java systems and ML experiments.<br><br>I’m still early in my journey, but I’m serious about writing maintainable code, learning industry patterns, and shipping things that actually work.<br><br>What I’m Working On:<br><br>Databases — SQL, relational schema design, normalization, indexing & hashing, query performance.<br><br>Software Engineering — UML, GRASP, system modelling, domain-driven design.<br><br>Java Development — object-oriented programming, interfaces, exceptions, file I/O, modular structure.<br><br>Machine Learning Experiments — small projects in Python exploring models, preprocessing, and evaluation.<br><br>Side Projects — tools, scripts, and early prototypes that help me test new ideas fast.<br><br>Tech I Use:<br><br>Languages: Java, Python, SQL, JavaScript, CSS<br><br>Tools: Git, VS Code, IntelliJ, Docker (basic), MySQL/MariaDB<br><br>Concepts: OOP, relational database theory, ML fundamentals, system design basics, UML
 
 
-What I’m Working On:
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/9d2waK2U) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/eltalhag/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:s255543@student.dtu.dk) 
 
-- Databases — SQL, relational schema design, normalization, indexing & hashing, query performance.
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=plastic&logo=assemblyscript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=plastic&logo=tor-project&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ElTalhaG&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ElTalhaG&theme=shadow_green&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ElTalhaG&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-- Software Engineering — UML, GRASP, system modelling, domain-driven design.
+---
+[![](https://visitcount.itsvg.in/api?id=ElTalhaG&icon=2&color=0)](https://visitcount.itsvg.in)
 
-- Java Development — object-oriented programming, interfaces, exceptions, file I/O, modular structure.
-
-- Machine Learning Experiments — small projects in Python exploring models, preprocessing, and evaluation.
-
-- Side Projects — tools, scripts, and early prototypes that help me test new ideas fast.
-
-
-Tech I Use:
-
-- Languages: Java, Python, SQL, JavaScript, CSS
-
-- Tools: Git, VS Code, IntelliJ, Docker (basic), MySQL/MariaDB
-
-- Concepts: OOP, relational database theory, ML fundamentals, system design basics, UML
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
