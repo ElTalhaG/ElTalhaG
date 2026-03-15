@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋 I'm Talha — Software Engineering Student Building Real Stuff<br>I'm a first-year Software Engineering student with a strong focus on backend development, databases, and applied machine learning. Right now I'm building projects that combine clean engineering with real-world problem solving — from relational database design to multi-module Java systems and ML experiments.<br><br>Tools: Git, VS Code, IntelliJ, Docker (basic), MySQL/MariaDB<br><br>Concepts: OOP, relational database theory, ML fundamentals, system design basics, UML
+Hi there 👋 I'm Talha, a Software Engineering Student Building Real Stuff<br>I'm a first-year Software Engineering student with a strong focus on backend development, databases, and applied machine learning. Right now I'm building projects that combine clean engineering with real-world problem solving — from relational database design to multi-module Java systems and ML experiments.<br><br>Tools: Git, VS Code, IntelliJ, Docker (basic), MySQL/MariaDB<br><br>Concepts: OOP, relational database theory, ML fundamentals, system design basics, UML
 
 
 ## 🌐 Socials:
