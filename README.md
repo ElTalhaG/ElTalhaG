@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋 I'm Talha<br>I'm a first-year Software Engineering student with a strong focus on backend development, databases, and applied machine learning.<br>Tools: Git, VS Code, IntelliJ, Docker (basic), MySQL/MariaDB<br><br>Concepts: OOP, relational database theory, ML fundamentals, system design basics, UML
+Hi there 👋 I'm Talha<br>I'm a first-year Software Engineering student with a strong focus on backend development, databases, and applied machine learning.<br><br>Tools: Git, VS Code, IntelliJ, Docker (basic), MySQL/MariaDB<br><br>Concepts: OOP, relational database theory, ML fundamentals, system design basics, UML
 
 
 ## 🌐 Socials:
